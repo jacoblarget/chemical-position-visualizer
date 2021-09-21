@@ -1,0 +1,59 @@
+RMS Errors for  isotropic_fit_exp_coeffs_unconstrained.out
+Component               RMSE                               Attractive RMSE
+Exchange                 0.95739823          0.24229417
+Electrostatics           0.41389836          0.13805482
+Induction                 0.0977317          0.03700208
+Dhf                     0.091609203         0.025779295
+Dispersion                0.1301308         0.065711645
+Total_Energy             0.59827767          0.15003599
+
+
+RMS Errors for  isotropic_fit_exp_coeffs_constrained.out
+Component               RMSE                               Attractive RMSE
+Exchange                 0.95494258          0.25319666
+Electrostatics           0.43003387           0.1366148
+Induction                0.10744921          0.03900237
+Dhf                      0.10320948          0.02917467
+Dispersion               0.14653432          0.06861912
+Total_Energy              0.5620915          0.14980665
+
+
+RMS Errors for  anisotropic_fit_exp_coeffs_unconstrained.out
+Component               RMSE                               Attractive RMSE
+Exchange                 0.53180842          0.11843534
+Electrostatics           0.21968803         0.089349586
+Induction               0.092874577         0.035597326
+Dhf                     0.068905524         0.020921112
+Dispersion              0.073770014         0.040597458
+Total_Energy             0.44937733          0.12376898
+
+
+RMS Errors for  anisotropic_fit_exp_coeffs_constrained.out
+Component               RMSE                               Attractive RMSE
+Exchange                  0.5111321          0.13230229
+Electrostatics           0.24440002         0.092218729
+Induction                0.10586319         0.039209977
+Dhf                     0.088221843         0.024734763
+Dispersion               0.07896736         0.039955215
+Total_Energy              0.4168787          0.12595147
+
+RMS Errors for  ohnanisotropic_fit_exp_coeffs_unconstrained.out
+Component            RMSE                               Attractive RMSE
+Exchange              0.49776007      0.10660225
+Electrostatics        0.18728069     0.078470641
+Induction            0.089861136     0.034565897
+Dhf                  0.063835834     0.020989473
+Dispersion           0.064037432      0.03632475
+Total_Energy           0.4448129      0.11194226
+
+
+RMS Errors for  ohnanisotropic_fit_exp_coeffs_constrained.out
+Component            RMSE                               Attractive RMSE
+Exchange              0.48317958      0.12011625
+Electrostatics        0.22648429     0.085268468
+Induction             0.10606757     0.039619366
+Dhf                  0.084104224     0.024873087
+Dispersion           0.077334035     0.040101862
+Total_Energy          0.41990064      0.11811161
+
+

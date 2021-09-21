@@ -1,0 +1,193 @@
+########################## FF Fitting Summary ###########################
+--------------------------------------------
+Program Version: 1.1.0
+Short-range Functional Form: born-mayer
+Combination Rules: aij = geometric
+                   bij = geometric_mean
+Electrostatic Damping Type: None
+Thole Param: 0.39
+Fitting weight: eff_mu = 0.0 Ha
+                eff_kt = 0.0157 Ha
+Weighted RMSE cutoff: 0.0 Ha
+Anisotropic Atomtypes: None
+All parameters have been radially corrected to account for Slater overlap
+This radial correction is approximate, and is only rigorous for the case where bi = bj.
+------------
+Exponents:
+CO2(0)     2.055636
+CT1(0)     1.894503
+OC(0)      2.191569
+C=O(0)     2.594692
+HT1(0)     2.251128
+HO1(0)     1.963706
+OH1(0)     2.332931
+HT8(0)     2.282453
+------------
+Monomer 1 Multipole File:
+acetone_ISA-GRID_L2.mom
+Monomer 2 Multipole File:
+methanol_ISA-GRID_L2.mom
+--------------------------------------------
+Exchange Parameters:
+    Functional Form = 
+	E(exch)_ij = A*K2(rij)*(1 + a_yml*Y_ml)*exp(-bij*rij)
+    where the a coefficient for each spherical harmonic term Y_ml
+    is listed in the parameters below and 
+	K2(rij) = 1/3*(bij*rij)**2 + bij*rij + 1 
+Fitted Atomtypes 
+  None
+Constrained Atomtypes 
+               A        
+CO2(0)        1.875871
+               A        
+CT1(0)        1.974741
+               A        
+OC(0)        3.009979
+               A        
+C=O(0)        3.327676
+               A        
+HT1(0)        0.583943
+               A        
+HO1(0)        0.156397
+               A        
+OH1(0)        4.063486
+               A        
+HT8(0)        0.657359
+------------
+Exchange RMS Error: 9.33803e-04
+Exchange Weighted RMS Error: 9.33803e-04
+Exchange Weighted Absolute Error: -2.92004e-05
+Exchange Weighted Least-Squares Error: 1.52945e-04
+--------------------------------------------
+Electrostatic Parameters:
+    Functional Form = 
+	E(elst)_ij = f_damp*qi*qj/rij - A*K2(rij)*(1 + a_yml*Y_ml)*exp(-bij*rij)
+Fitted Atomtypes 
+  None
+Constrained Atomtypes 
+               A        
+CO2(0)        1.114800
+               A        
+CT1(0)        1.256873
+               A        
+OC(0)        1.885016
+               A        
+C=O(0)        1.698481
+               A        
+HT1(0)        0.273429
+               A        
+HO1(0)        0.042578
+               A        
+OH1(0)        2.681533
+               A        
+HT8(0)        0.339779
+------------
+Electrostatics RMS Error: 4.24111e-04
+Electrostatics Weighted RMS Error: 4.24111e-04
+Electrostatics Weighted Absolute Error: 1.59207e-05
+Electrostatics Weighted Least-Squares Error: 1.05161e-04
+--------------------------------------------
+Drude oscillator energy has been calculated using the following method: multipole-gradient
+Induction Parameters:
+    Functional Form = 
+	E(ind)_ij = shell_charge - A*K2(rij)*(1 + a_yml*Y_ml)*exp(-bij*rij)
+Fitted Atomtypes 
+  None
+Constrained Atomtypes 
+               A        
+CO2(0)        0.442563
+               A        
+CT1(0)        0.100633
+               A        
+OC(0)        0.029254
+               A        
+C=O(0)        2.012280
+               A        
+HT1(0)        0.138196
+               A        
+HO1(0)        0.089763
+               A        
+OH1(0)        0.000000
+               A        
+HT8(0)        0.096637
+------------
+Induction RMS Error: 1.31463e-04
+Induction Weighted RMS Error: 1.31463e-04
+Induction Weighted Absolute Error: -1.37590e-05
+Induction Weighted Least-Squares Error: 8.50043e-06
+--------------------------------------------
+DHF Parameters:
+    Functional Form = 
+	E(dhf)_ij = - A*K2(rij)*(1 + a_yml*Y_ml)*exp(-bij*rij)
+Fitted Atomtypes 
+  None
+Constrained Atomtypes 
+               A        
+CO2(0)        0.000000
+               A        
+CT1(0)        0.051209
+               A        
+OC(0)        0.809209
+               A        
+C=O(0)        0.413886
+               A        
+HT1(0)        0.216422
+               A        
+HO1(0)        0.053691
+               A        
+OH1(0)        0.909235
+               A        
+HT8(0)        0.230543
+------------
+Dhf RMS Error: 9.66643e-05
+Dhf Weighted RMS Error: 9.66643e-05
+Dhf Weighted Absolute Error: 2.05169e-06
+Dhf Weighted Least-Squares Error: 4.65588e-06
+--------------------------------------------
+Dispersion Parameters:
+    Functional Form = 
+	E(disp)_ij = sum_(n=6,8,10,12){A*fdamp_n*(Cij_n/r_ij^n)}
+               C6              C8             C10             C12       
+CO2          4.847096       18.798288       63.256519      202.859856
+CT1          4.847096       18.798288       63.256519      202.859856
+OC           4.783373       18.811595      100.656333      417.705964
+C=O          3.661371       12.062782       78.048354      284.357981
+HT1          1.498389        6.488268       33.240608        0.000000
+HO1          1.275466        4.018693       30.302404        0.000000
+OH1          3.819955       17.890308       89.856938      392.757676
+HT8          1.498389        6.488268       33.240608        0.000000
+Fitted Atomtypes 
+  None
+Constrained Atomtypes 
+               A        
+CO2(0)        0.700000
+               A        
+CT1(0)        0.881446
+               A        
+OC(0)        1.115496
+               A        
+C=O(0)        0.700000
+               A        
+HT1(0)        1.095684
+               A        
+HO1(0)        0.878621
+               A        
+OH1(0)        1.134794
+               A        
+HT8(0)        1.081173
+------------
+Dispersion RMS Error: 1.10083e-04
+Dispersion Weighted RMS Error: 1.10083e-04
+Dispersion Weighted Absolute Error: -1.21206e-05
+Dispersion Weighted Least-Squares Error: 6.91233e-06
+--------------------------------------------
+Total Energy:
+------------
+Total Energy RMS Error: 5.45138e-04
+Total Energy Weighted RMS Error: 5.45138e-04
+Total Energy Weighted Absolute Error: -3.71077e-05
+Total Energy Weighted Least-Squares Error: 1.12738e-04
+--------------------------------------------
+#########################################################################
+
+

@@ -1,0 +1,7 @@
+5
+Methane; experimental geometry taken from cccbdb.nist.gov
+C_Csp3 0.0000  0.0000  0.0000
+H_Csp3 0.6276  0.6276  0.6276
+H_Csp3 0.6276  -0.6276     -0.6276
+H_Csp3 -0.6276     0.6276  -0.6276
+H_Csp3 -0.6276     -0.6276     0.6276

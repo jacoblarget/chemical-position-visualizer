@@ -1,0 +1,54 @@
+
+MAE Errors for  fullisotropic_fit_exp_total_energy_unconstrained.dat
+exchange       	      0.11868953	      0.04672359
+electrostatics 	      0.05613843	      0.08953255
+induction      	      0.03835648	      0.02501514
+dhf            	      0.01474220	      0.01446926
+dispersion     	      0.24759117	      0.11476674
+total_energy   	      0.19884583	      0.14814706
+
+
+MAE Errors for  fullisotropic_fit_exp_total_energy_constrained.dat
+exchange       	      0.16015269	      0.06499076
+electrostatics 	      0.05899183	      0.07149450
+induction      	      0.04199081	      0.02652469
+dhf            	      0.02968596	      0.01827264
+dispersion     	      0.23805166	      0.12427948
+total_energy   	      0.20728104	      0.14430299
+
+
+MAE Errors for  isotropic_fit_exp_total_energy_unconstrained.dat
+exchange       	      0.11868953	      0.04672359
+electrostatics 	      0.05010979	      0.06979225
+induction      	      0.02723155	      0.02390589
+dhf            	      0.01460125	      0.01538724
+dispersion     	      0.24759117	      0.11476674
+total_energy   	      0.19396944	      0.10645600
+
+
+MAE Errors for  isotropic_fit_exp_total_energy_constrained.dat
+exchange       	      0.16015269	      0.06499076
+electrostatics 	      0.06056715	      0.05167640
+induction      	      0.03962557	      0.02768436
+dhf            	      0.02896654	      0.01780781
+dispersion     	      0.23805166	      0.12427948
+total_energy   	      0.18539050	      0.13670663
+
+
+MAE Errors for  anisotropic_fit_exp_total_energy_unconstrained.dat
+exchange       	      0.04617639	      0.01652842
+electrostatics 	      0.02957770	      0.03262646
+induction      	      0.02063285	      0.02249570
+dhf            	      0.01194074	      0.01885465
+dispersion     	      0.04759359	      0.04455989
+total_energy   	      0.05317094	      0.04181284
+
+
+MAE Errors for  anisotropic_fit_exp_total_energy_constrained.dat
+exchange       	      0.07277715	      0.03350144
+electrostatics 	      0.04433251	      0.02600479
+induction      	      0.03750278	      0.03197827
+dhf            	      0.02563500	      0.02322983
+dispersion     	      0.06435373	      0.05566952
+total_energy   	      0.06621851	      0.03619675
+

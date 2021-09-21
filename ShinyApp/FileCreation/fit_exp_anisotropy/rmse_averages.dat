@@ -1,0 +1,54 @@
+
+RMS Errors for  fullisotropic_fit_exp_total_energy_unconstrained.dat
+exchange       	      2.29538936	      0.79657333
+electrostatics 	      1.25951194	      0.66327055
+induction      	      0.25003001	      0.11432486
+dhf            	      0.23933563	      0.08039484
+dispersion     	      0.86916632	      0.44451319
+total_energy   	      1.79365481	      0.82115155
+
+
+RMS Errors for  fullisotropic_fit_exp_total_energy_constrained.dat
+exchange       	      2.37897617	      0.82885834
+electrostatics 	      1.30586959	      0.66112861
+induction      	      0.28903000	      0.12991452
+dhf            	      0.27303052	      0.09273128
+dispersion     	      0.87641864	      0.44913014
+total_energy   	      1.85436922	      0.86474590
+
+
+RMS Errors for  isotropic_fit_exp_total_energy_unconstrained.dat
+exchange       	      2.29538936	      0.79657333
+electrostatics 	      1.05651586	      0.42655527
+induction      	      0.22472324	      0.08975891
+dhf            	      0.23529739	      0.07818785
+dispersion     	      0.86916632	      0.44451319
+total_energy   	      1.45117381	      0.57305462
+
+
+RMS Errors for  isotropic_fit_exp_total_energy_constrained.dat
+exchange       	      2.37897617	      0.82885834
+electrostatics 	      1.10865452	      0.42044649
+induction      	      0.26152813	      0.10450420
+dhf            	      0.26893263	      0.09042359
+dispersion     	      0.87641864	      0.44913014
+total_energy   	      1.47047056	      0.58958792
+
+
+RMS Errors for  anisotropic_fit_exp_total_energy_unconstrained.dat
+exchange       	      1.17385054	      0.42052545
+electrostatics 	      0.52941155	      0.26276200
+induction      	      0.21219332	      0.08706651
+dhf            	      0.17762932	      0.06166687
+dispersion     	      0.26857948	      0.15700288
+total_energy   	      0.85977542	      0.31657471
+
+
+RMS Errors for  anisotropic_fit_exp_total_energy_constrained.dat
+exchange       	      1.26640519	      0.48015985
+electrostatics 	      0.60573122	      0.27341115
+induction      	      0.25967875	      0.10660368
+dhf            	      0.22680935	      0.07544126
+dispersion     	      0.30795011	      0.17489659
+total_energy   	      0.92053582	      0.35161486
+

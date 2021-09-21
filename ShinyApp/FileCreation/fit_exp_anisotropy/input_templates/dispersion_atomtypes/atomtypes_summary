@@ -1,0 +1,20 @@
+C=O  :  Carbon double bonded to an oxygen
+OC   :  Carbonyl Oxygen
+CT   :  SP3 hybridized carbon
+HT   :  H attached to SP3 hybridized carbon
+CM   :  SP2 hybridized carbon
+HM   :  H attached to SP2 hybridized carbon
+Ar   :  Argon
+Br   :  Bromine
+CX   :  SP3 carbon attached to halogen
+CO2  :  Carbon dioxide carbon
+OCO  :  Carbon dioxide oxygen
+OH2  :  Water oxygen
+H2O  :  Water hydrogen
+O    :  Ether oxygen
+CO   :  Carbon singly bonded to an oxygen
+OH   :  Alcohol oxygen
+HO   :  Alcohol hydgrogen
+CN   :  alpha-C to amine
+N    :  amine
+HN   :  amine hydrogen

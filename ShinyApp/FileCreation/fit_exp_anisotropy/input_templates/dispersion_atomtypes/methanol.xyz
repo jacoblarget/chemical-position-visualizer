@@ -1,0 +1,8 @@
+6
+Methanol; experimental geometry taken from cccbdb.nist.gov
+C_Csp3 -0.0503     0.6685  0.0000
+O_alcohol -0.0503     -0.7585     0.0000
+H_Csp3 -1.0807     1.0417  0.0000
+H_Csp3 0.4650  1.0417  0.8924
+H_Csp3 0.4650  1.0417  -0.8924
+H_alcohol 0.8544  -1.0677     0.0000 

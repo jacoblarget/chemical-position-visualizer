@@ -1,0 +1,25 @@
+Atomtype:  C0
+Density cutoff =  0.2375
+Fitting points over the range  4.4  to  6.94
+B (twopoint fit): 1.49466450572
+B (average over range): 1.4932916008
+Atomtype:  Br1
+Density cutoff =  0.285
+Fitting points over the range  4.42  to  5.62
+B (twopoint fit): 1.5639724025
+B (average over range): 1.56271764915
+Atomtype:  H2
+Density cutoff =  0.2375
+Fitting points over the range  4.92  to  7.66
+B (twopoint fit): 1.67045122896
+B (average over range): 1.66923517406
+Atomtype:  H3
+Density cutoff =  0.2375
+Fitting points over the range  4.92  to  7.66
+B (twopoint fit): 1.67161157919
+B (average over range): 1.67040570684
+Atomtype:  H4
+Density cutoff =  0.2375
+Fitting points over the range  4.92  to  7.66
+B (twopoint fit): 1.67161674289
+B (average over range): 1.6704109219

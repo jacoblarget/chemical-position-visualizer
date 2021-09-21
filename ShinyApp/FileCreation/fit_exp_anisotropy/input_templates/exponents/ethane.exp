@@ -1,0 +1,40 @@
+Atomtype:  C0
+Density cutoff =  0.2375
+Fitting points over the range  4.46  to  8.36
+B (twopoint fit): 1.8622493852
+B (average over range): 1.86190169073
+Atomtype:  C1
+Density cutoff =  0.2375
+Fitting points over the range  4.46  to  8.36
+B (twopoint fit): 1.86219250448
+B (average over range): 1.861844562
+Atomtype:  H2
+Density cutoff =  0.2375
+Fitting points over the range  4.12  to  8.8
+B (twopoint fit): 2.04944381354
+B (average over range): 2.04955465218
+Atomtype:  H3
+Density cutoff =  0.2375
+Fitting points over the range  4.1  to  8.82
+B (twopoint fit): 2.05498449161
+B (average over range): 2.05509381386
+Atomtype:  H4
+Density cutoff =  0.2375
+Fitting points over the range  4.1  to  8.82
+B (twopoint fit): 2.05499878388
+B (average over range): 2.05510812142
+Atomtype:  H5
+Density cutoff =  0.2375
+Fitting points over the range  4.12  to  8.8
+B (twopoint fit): 2.04938949845
+B (average over range): 2.04950025488
+Atomtype:  H6
+Density cutoff =  0.2375
+Fitting points over the range  4.1  to  8.82
+B (twopoint fit): 2.0549157567
+B (average over range): 2.05502498393
+Atomtype:  H7
+Density cutoff =  0.2375
+Fitting points over the range  4.1  to  8.82
+B (twopoint fit): 2.05491576599
+B (average over range): 2.05502499338

@@ -1,0 +1,9 @@
+7
+Methyl amine; CCSD(T)/6-311G* geometry taken from cccbdb.nist.gov
+C_Csp3  0.0516  0.7071  0.0000
+N_amine  0.0516  -0.7640     0.0000
+H_Csp3 -0.9474     1.1766  0.0000
+H_Csp3 0.5950  1.0631  0.8831
+H_Csp3 0.5950  1.0631  -0.8831
+H_amine -0.4565     -1.0985     -0.8137
+H_amine -0.4565     -1.0985     0.8137

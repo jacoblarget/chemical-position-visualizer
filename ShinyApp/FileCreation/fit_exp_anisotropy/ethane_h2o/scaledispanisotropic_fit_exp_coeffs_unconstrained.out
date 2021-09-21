@@ -1,0 +1,145 @@
+########################## FF Fitting Summary ###########################
+--------------------------------------------
+Program Version: 1.1.0
+Short-range Functional Form: born-mayer
+Combination Rules: aij = geometric
+                   bij = geometric_mean
+Electrostatic Damping Type: None
+Thole Param: 0.39
+Fitting weight: eff_mu = 0.0 Ha
+                eff_kt = 0.0083 Ha
+Weighted RMSE cutoff: 0.0 Ha
+Anisotropic Atomtypes: H2O  OH2  
+All parameters have been radially corrected to account for Slater overlap
+This radial correction is approximate, and is only rigorous for the case where bi = bj.
+------------
+Exponents (Optimized):
+H2O(0)     2.408388
+OH2(0)     2.232375
+HT2(0)     2.077303
+CT2(0)     2.337085
+------------
+Monomer 1 Multipole File:
+ethane_ISA-GRID_L2.mom
+Monomer 2 Multipole File:
+h2o_ISA-GRID_L2.mom
+--------------------------------------------
+Exchange Parameters:
+    Functional Form = 
+	E(exch)_ij = A*K2(rij)*(1 + a_yml*Y_ml)*exp(-bij*rij)
+    where the a coefficient for each spherical harmonic term Y_ml
+    is listed in the parameters below and 
+	K2(rij) = 1/3*(bij*rij)**2 + bij*rij + 1 
+Fitted Atomtypes 
+               A        
+HT2(0)        0.419466
+               A        
+CT2(0)        3.720646
+               A             a_y10           a_y20      
+H2O(0)        0.305091       -0.882596       -0.607902
+               A             a_y10           a_y20           a_y22c     
+OH2(0)        3.977716        0.115258        0.052572       -0.279712
+Constrained Atomtypes 
+  None
+------------
+Exchange RMS Error: 5.36508e-04
+Exchange Weighted RMS Error: 5.36508e-04
+Exchange Weighted Absolute Error: -6.67438e-06
+Exchange Weighted Least-Squares Error: 2.45871e-05
+--------------------------------------------
+Electrostatic Parameters:
+    Functional Form = 
+	E(elst)_ij = f_damp*qi*qj/rij - A*K2(rij)*(1 + a_yml*Y_ml)*exp(-bij*rij)
+Fitted Atomtypes 
+               A        
+HT2(0)        0.207674
+               A        
+CT2(0)        2.117129
+               A             a_y10           a_y20      
+H2O(0)        0.586359        0.958263        0.283731
+               A             a_y10           a_y20           a_y22c     
+OH2(0)        2.029331       -0.110427        0.056723       -0.525967
+Constrained Atomtypes 
+  None
+------------
+Electrostatics RMS Error: 2.10043e-04
+Electrostatics Weighted RMS Error: 2.10043e-04
+Electrostatics Weighted Absolute Error: 7.94201e-06
+Electrostatics Weighted Least-Squares Error: 3.19494e-05
+--------------------------------------------
+Drude oscillator energy has been calculated using the following method: multipole-gradient
+Induction Parameters:
+    Functional Form = 
+	E(ind)_ij = shell_charge - A*K2(rij)*(1 + a_yml*Y_ml)*exp(-bij*rij)
+Fitted Atomtypes 
+               A        
+HT2(0)        0.010308
+               A        
+CT2(0)        0.235531
+               A             a_y10           a_y20      
+H2O(0)        0.764192       -0.143069       -0.049981
+               A             a_y10           a_y20           a_y22c     
+OH2(0)        0.000000        0.392232       -0.024764        0.154393
+Constrained Atomtypes 
+  None
+------------
+Induction RMS Error: 6.01572e-05
+Induction Weighted RMS Error: 6.01572e-05
+Induction Weighted Absolute Error: -7.23668e-06
+Induction Weighted Least-Squares Error: 1.91816e-06
+--------------------------------------------
+DHF Parameters:
+    Functional Form = 
+	E(dhf)_ij = - A*K2(rij)*(1 + a_yml*Y_ml)*exp(-bij*rij)
+Fitted Atomtypes 
+               A        
+HT2(0)        0.156308
+               A        
+CT2(0)        0.000000
+               A             a_y10           a_y20      
+H2O(0)        0.113823       -1.000000       -0.058426
+               A             a_y10           a_y20           a_y22c     
+OH2(0)        0.642365       -0.398161       -0.076189       -0.422474
+Constrained Atomtypes 
+  None
+------------
+Dhf RMS Error: 6.01857e-05
+Dhf Weighted RMS Error: 6.01857e-05
+Dhf Weighted Absolute Error: 1.13925e-05
+Dhf Weighted Least-Squares Error: 1.92354e-06
+--------------------------------------------
+Dispersion Parameters:
+    Functional Form = 
+	E(disp)_ij = sum_(n=6,8,10,12){A*fdamp_n*(Cij_n/r_ij^n)}
+               C6              C8             C10             C12       
+H2O          0.880629        1.744112       16.442916        0.000000
+OH2          5.035664       23.165974      110.758015      470.057253
+HT2          1.498389        6.488268       33.240608        0.000000
+CT2          4.847096       18.798288       63.256519      202.859856
+Fitted Atomtypes 
+               A        
+HT2(0)        1.220742
+               A        
+CT2(0)        0.700000
+               A             a_y10           a_y20      
+H2O(0)        0.700000        0.111377        0.416202
+               A             a_y10           a_y20           a_y22c     
+OH2(0)        1.150499        0.160824        0.027231       -0.034718
+Constrained Atomtypes 
+  None
+------------
+Dispersion RMS Error: 7.55405e-05
+Dispersion Weighted RMS Error: 7.55405e-05
+Dispersion Weighted Absolute Error: 1.28761e-05
+Dispersion Weighted Least-Squares Error: 3.80983e-06
+--------------------------------------------
+Total Energy:
+------------
+Total Energy RMS Error: 3.37721e-04
+Total Energy Weighted RMS Error: 3.37721e-04
+Total Energy Weighted Absolute Error: 1.82995e-05
+Total Energy Weighted Least-Squares Error: 3.13284e-05
+--------------------------------------------
+#########################################################################
+
+

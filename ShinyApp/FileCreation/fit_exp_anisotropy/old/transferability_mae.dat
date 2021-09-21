@@ -1,0 +1,40 @@
+MAE Errors for  isotropic_fit_exp_total_energy_unconstrained.dat
+Component               RMSE                               Attractive RMSE
+exchange              0.24934396      0.01725954
+electrostatics        0.07498210      0.04639154
+induction             0.02149136      0.02267050
+dhf                   0.01527716      0.00942631
+dispersion            0.02421578      0.02154636
+total_energy          0.30229241      0.06352365
+
+
+MAE Errors for  isotropic_fit_exp_total_energy_constrained.dat
+Component               RMSE                               Attractive RMSE
+exchange              0.20464385      0.03681170
+electrostatics        0.06722175      0.03823544
+induction             0.02717400      0.02222220
+dhf                   0.03317907      0.01280299
+dispersion            0.03349768      0.01553273
+total_energy          0.24308397      0.06124424
+
+
+MAE Errors for  anisotropic_fit_exp_total_energy_unconstrained.dat
+Component               RMSE                               Attractive RMSE
+exchange              0.07727024      0.00970131
+electrostatics        0.07140432      0.02901698
+induction             0.02033330      0.02357157
+dhf                   0.01311596      0.00974633
+dispersion            0.01996614      0.01875249
+total_energy          0.13969315      0.05519647
+
+
+MAE Errors for  anisotropic_fit_exp_total_energy_constrained.dat
+Component               RMSE                               Attractive RMSE
+exchange              0.10006373      0.01881573
+electrostatics        0.04838408      0.02929408
+induction             0.03360690      0.02475564
+dhf                   0.03144563      0.01195323
+dispersion            0.02588571      0.01787694
+total_energy          0.11153437      0.04745962
+
+
